@@ -171,6 +171,7 @@ QueueHandle_t xLCDQueue;
 
 /*-----------------------------------------------------------*/
 
+//×¢ÊÍ Main
 int main( void )
 {
     #ifdef DEBUG
